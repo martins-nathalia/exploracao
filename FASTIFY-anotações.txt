@@ -1,0 +1,16 @@
+FASTIFY
+
+Framework ""orientado"" a plugin => mais rapído
+Sintaxe amigavel, alta performance, extensível, Typescript 
+
+|-SRC
+|-main
+|-app.(module,controller,servcice,controller.spec,servcice.spec)[gino => app.module e testes na /test ] arquivos raiz
+|-commun 
+|--dto
+|--logger
+|--type 
+|-modules
+|-providers
+
+
