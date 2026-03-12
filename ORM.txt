@@ -1,0 +1,8 @@
+
+ORM (Object Relational Mapper => permite fazer uma relação dos objetos com os dados que os mesmos representam)
+
+Substitui o sql puro por lidar com classes e objetos(oo)
+
+entity -> tabelas 
+repository -> acesso e manipulação de dados 
+data source -> config de conexão 
