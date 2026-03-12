@@ -1,0 +1,13 @@
+nest
+
+Injeção de dependências(gerenciar instâncias)
+Arq. Modular 
+
+[corpo do nest ]
+
+Module ->organiza partes da aplicação 
+Controller -> recebe req http
+service-> contem a regra de negocio 
+provider-> qualquer classe injetável (service,repository,factory, helper)
+
+cliente -> controller -> service(provider) -> bd  
